@@ -5,18 +5,27 @@ Desktop.ini
 # macOS system files
 .DS_Store
 
-# VS Code local settings
+# VS Code settings
 .vscode/
 
 # Temporary files
 *.tmp
 *.log
 
-# Environment and secret files
+# Environment files
 .env
+.env.*
+
+# Secrets and credentials
 *.key
 *.pem
+*.pfx
+*.p12
 
 # Sensitive folders
 secrets/
 credentials/
+
+# Backup files
+*.bak
+*.backup
