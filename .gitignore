@@ -1,0 +1,22 @@
+# Windows system files
+Thumbs.db
+Desktop.ini
+
+# macOS system files
+.DS_Store
+
+# VS Code local settings
+.vscode/
+
+# Temporary files
+*.tmp
+*.log
+
+# Environment and secret files
+.env
+*.key
+*.pem
+
+# Sensitive folders
+secrets/
+credentials/
