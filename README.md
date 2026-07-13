@@ -4,14 +4,14 @@ A practical portfolio of hands-on IT administration projects focused on Microsof
 
 This repository currently covers:
 
-- Active Directory administration
+- Windows Server administration (e.g., Active Directory, Group Policy, DNS/DHCP, etc.)
 - Microsoft 365 and Microsoft Entra ID administration
 
 The projects are designed to demonstrate practical support, identity, access, and infrastructure administration skills through concise documentation and screenshots.
 
 ## Projects
 
-### Active Directory
+### Windows Server
 
 Hands-on Windows Server and Active Directory administration projects, including:
 
@@ -23,11 +23,11 @@ Hands-on Windows Server and Active Directory administration projects, including:
 - DNS and DHCP
 - PowerShell administration
 
-[View Active Directory projects](./Active-Directory/)
+[View Windows Server projects](./Windows-Server/)
 
-### Microsoft 365 and Entra ID
+### Microsoft 365 and Entra User Management
 
-Hands-on Microsoft 365 and Entra ID administration projects, including:
+Hands-on Microsoft 365 and Entra administration projects, including:
 
 - User lifecycle management
 - Password resets
@@ -39,6 +39,22 @@ Hands-on Microsoft 365 and Entra ID administration projects, including:
 - Authentication troubleshooting
 
 [View Microsoft 365 and Entra projects](./M365-and-Entra/)
+
+### Exchange Online
+
+Brief experiences of Exchange Online use-cases and scenarios, including:
+
+- Navigating Exchange Admin Center
+- Inspecting user mailboxes
+- Creating shared mailboxes
+- Configuring mailbox delegation
+- Distinguishing Full Access, Send As and Send on Behalf
+- Creating distribution groups
+- Managing distribution-group membership
+- Adding aliases
+- Running message traces
+
+[View Exchange Online projects](./Exchange-Online/)
 
 ## Purpose
 
