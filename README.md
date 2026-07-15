@@ -64,7 +64,7 @@ Small demonstration of SharePoint activities and troubleshooting, including:
 - Restrictive access and ensuring actual permissions
 - Libraries, folders and synced content
 
-[View SharePoint Management projects](./M365-and-Entra/SharePoint-Management/)
+[View SharePoint Management projects](./M365-and-Entra/Sharepoint-Management/)
 
 ### OneDrive Fundamentals
 
