@@ -1,6 +1,6 @@
-# Enterprise IT and Cloud Labs
+# Enterprise Cloud and Security Labs
 
-A practical portfolio of hands-on IT administration projects focused on Microsoft enterprise environments.
+A practical portfolio of hands-on IT administration projects focused on Microsoft enterprise cloud environments.
 
 This repository currently covers:
 
@@ -43,28 +43,39 @@ Hands-on Microsoft 365 and Entra administration projects, including:
 
 Brief experiences of Exchange Online use-cases and scenarios, including:
 
-- Navigating Exchange Admin Center
+- Exchange Admin Center
 - Inspecting user mailboxes
 - Creating shared mailboxes
 - Configuring mailbox delegation
-- Distinguishing Full Access, Send As and Send on Behalf
+- Full Access, Send As and Send on Behalf
 - Creating distribution groups
 - Managing distribution-group membership
-- Adding aliases
-- Running message traces
+- Aliases
+- Message traces
 
 [View Exchange Online projects](./M365-and-Entra/Exchange-Online/)
 
 ### SharePoint Management
 
-Brief experiences of Exchange Online use-cases and scenarios, including:
+Small demonstration of SharePoint activities and troubleshooting, including:
 
-- Understanding SharePoint permission groups
+- SharePoint permission groups
 - Configuring permission inheritance
-- Diagnosing restive access and ensuring actual permissions
-- Understanding libraries, folders and synced content
+- Restrictive access and ensuring actual permissions
+- Libraries, folders and synced content
 
 [View SharePoint Management projects](./M365-and-Entra/SharePoint-Management/)
+
+### OneDrive Fundamentals
+
+Showcasing basic OneDrive functionalities and troubleshooting, including:
+
+- OneDrive Sync Fundamentals
+- Files On-Demand
+- OneDrive Sync Troubleshooting
+- Sync vs Permission vs Account Failure
+
+[View SharePoint Management projects](./M365-and-Entra/OneDrive-Fundamentals/)
 
 ## Purpose
 
