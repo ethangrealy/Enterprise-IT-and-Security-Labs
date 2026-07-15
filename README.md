@@ -75,7 +75,7 @@ Showcasing basic OneDrive functionalities and troubleshooting, including:
 - OneDrive Sync Troubleshooting
 - Sync vs Permission vs Account Failure
 
-[View SharePoint Management projects](./M365-and-Entra/OneDrive-Fundamentals/)
+[View OneDrive Fundamentals projects](./M365-and-Entra/OneDrive-Fundamentals/)
 
 ## Purpose
 
