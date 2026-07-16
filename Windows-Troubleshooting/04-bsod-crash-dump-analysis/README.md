@@ -50,16 +50,16 @@ After the analysis, the VM was restarted normally.
 
 ### Memory Dump Configuration
 
-![Memory dump configuration](Screenshots/01-memory-dump-configuration.png)
+![Memory dump configuration](screenshots/01-memory-dump-configuration.png)
 
 ### NotMyFault Crash Selection
 
-![NotMyFault crash selection](Screenshots/02-notmyfault-crash-test.png)
+![NotMyFault crash selection](screenshots/02-notmyfault-crash-test.png)
 
 ### Windows Stop Error
 
-![Windows stop error](Screenshots/03-windows-bsod.png)
+![Windows stop error](screenshots/03-windows-bsod.png)
 
 ### WinDbg Crash Analysis
 
-![WinDbg crash analysis](Screenshots/04-windbg-crash-analysis.png)
+![WinDbg crash analysis](screenshots/04-windbg-crash-analysis.png)
