@@ -35,12 +35,12 @@ Startup Repair reported that it could not repair the PC. Windows later booted no
 
 ### Windows Recovery Error
 
-![Windows Recovery Error](Screenshots/01-automatic-recovery-triggered.png)
+![Windows Recovery Error](screenshots/01-automatic-recovery-triggered.png)
 
 ### WinRE Advanced Options
 
-![WinRE Advanced Options](Screenshots/02-external-winre-advanced-options.png)
+![WinRE Advanced Options](screenshots/02-external-winre-advanced-options.png)
 
 ### Startup Repair Result
 
-![Startup Repair Result](Screenshots/03-startup-repair-result.png)
+![Startup Repair Result](screenshots/03-startup-repair-result.png)

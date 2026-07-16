@@ -34,16 +34,16 @@ Windows was restarted and the desktop, taskbar and Start menu loaded normally.
 
 ### Normal Shell Configuration
 
-![Normal shell configuration](Screenshots/01-normal-shell-configuration.png)
+![Normal shell configuration](screenshots/01-normal-shell-configuration.png)
 
 ### Black Screen After Sign-In
 
-![Black screen after sign-in](Screenshots/02-black-screen-after-sign-in.png)
+![Black screen after sign-in](screenshots/02-black-screen-after-sign-in.png)
 
 ### Invalid Shell Value
 
-![Invalid shell value](Screenshots/03-invalid-winlogon-shell-value.png)
+![Invalid shell value](screenshots/03-invalid-winlogon-shell-value.png)
 
 ### Shell Restored
 
-![Shell restored](Screenshots/04-shell-restored-after-restart.png)
+![Shell restored](screenshots/04-shell-restored-after-restart.png)
